@@ -200,4 +200,5 @@ git commit -m "Update E1-3 documentation and evidence"
 git push
 ```
 
-이미 커밋한 파일은 변경된 내용이 없으면 다시 커밋되지 않습니다. 업로드한 뒤 GitHub에서 README의 이미지 5장이 제대로 표시되는지 확인합니다.
+이미 커밋한 파일은 변경된 내용이 없으면 다시 커밋되지 않습니다. 업로드한 뒤 GitHub에서 README의 이미지 5장이 제대로 표시되는지 확인했습니다.
+
